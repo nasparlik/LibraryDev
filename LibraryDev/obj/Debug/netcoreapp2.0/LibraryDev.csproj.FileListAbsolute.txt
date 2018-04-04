@@ -1,0 +1,15 @@
+C:\Users\cosop\source\repos\LibraryDev\LibraryDev\bin\Debug\netcoreapp2.0\LibraryDev.deps.json
+C:\Users\cosop\source\repos\LibraryDev\LibraryDev\bin\Debug\netcoreapp2.0\LibraryDev.runtimeconfig.json
+C:\Users\cosop\source\repos\LibraryDev\LibraryDev\bin\Debug\netcoreapp2.0\LibraryDev.runtimeconfig.dev.json
+C:\Users\cosop\source\repos\LibraryDev\LibraryDev\bin\Debug\netcoreapp2.0\LibraryDev.dll
+C:\Users\cosop\source\repos\LibraryDev\LibraryDev\bin\Debug\netcoreapp2.0\LibraryDev.pdb
+C:\Users\cosop\source\repos\LibraryDev\LibraryDev\bin\Debug\netcoreapp2.0\LibraryDt.dll
+C:\Users\cosop\source\repos\LibraryDev\LibraryDev\bin\Debug\netcoreapp2.0\LibraryServices.dll
+C:\Users\cosop\source\repos\LibraryDev\LibraryDev\bin\Debug\netcoreapp2.0\LibraryDt.pdb
+C:\Users\cosop\source\repos\LibraryDev\LibraryDev\bin\Debug\netcoreapp2.0\LibraryServices.pdb
+C:\Users\cosop\source\repos\LibraryDev\LibraryDev\obj\Debug\netcoreapp2.0\LibraryDev.csprojResolveAssemblyReference.cache
+C:\Users\cosop\source\repos\LibraryDev\LibraryDev\obj\Debug\netcoreapp2.0\LibraryDev.csproj.CoreCompileInputs.cache
+C:\Users\cosop\source\repos\LibraryDev\LibraryDev\obj\Debug\netcoreapp2.0\LibraryDev.AssemblyInfoInputs.cache
+C:\Users\cosop\source\repos\LibraryDev\LibraryDev\obj\Debug\netcoreapp2.0\LibraryDev.AssemblyInfo.cs
+C:\Users\cosop\source\repos\LibraryDev\LibraryDev\obj\Debug\netcoreapp2.0\LibraryDev.dll
+C:\Users\cosop\source\repos\LibraryDev\LibraryDev\obj\Debug\netcoreapp2.0\LibraryDev.pdb

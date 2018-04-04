@@ -1,0 +1,9 @@
+C:\Users\cosop\source\repos\LibraryDev\LibraryData\bin\Debug\netcoreapp2.0\LibraryDt.deps.json
+C:\Users\cosop\source\repos\LibraryDev\LibraryData\bin\Debug\netcoreapp2.0\LibraryDt.dll
+C:\Users\cosop\source\repos\LibraryDev\LibraryData\bin\Debug\netcoreapp2.0\LibraryDt.pdb
+C:\Users\cosop\source\repos\LibraryDev\LibraryData\obj\Debug\netcoreapp2.0\LibraryDt.csprojResolveAssemblyReference.cache
+C:\Users\cosop\source\repos\LibraryDev\LibraryData\obj\Debug\netcoreapp2.0\LibraryDt.csproj.CoreCompileInputs.cache
+C:\Users\cosop\source\repos\LibraryDev\LibraryData\obj\Debug\netcoreapp2.0\LibraryDt.AssemblyInfoInputs.cache
+C:\Users\cosop\source\repos\LibraryDev\LibraryData\obj\Debug\netcoreapp2.0\LibraryDt.AssemblyInfo.cs
+C:\Users\cosop\source\repos\LibraryDev\LibraryData\obj\Debug\netcoreapp2.0\LibraryDt.dll
+C:\Users\cosop\source\repos\LibraryDev\LibraryData\obj\Debug\netcoreapp2.0\LibraryDt.pdb

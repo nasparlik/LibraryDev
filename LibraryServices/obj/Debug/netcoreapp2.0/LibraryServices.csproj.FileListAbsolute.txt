@@ -1,0 +1,12 @@
+C:\Users\cosop\source\repos\LibraryDev\LibraryServices\bin\Debug\netcoreapp2.0\LibraryServices.deps.json
+C:\Users\cosop\source\repos\LibraryDev\LibraryServices\bin\Debug\netcoreapp2.0\LibraryServices.dll
+C:\Users\cosop\source\repos\LibraryDev\LibraryServices\bin\Debug\netcoreapp2.0\LibraryServices.pdb
+C:\Users\cosop\source\repos\LibraryDev\LibraryServices\bin\Debug\netcoreapp2.0\LibraryDt.dll
+C:\Users\cosop\source\repos\LibraryDev\LibraryServices\bin\Debug\netcoreapp2.0\LibraryDt.pdb
+C:\Users\cosop\source\repos\LibraryDev\LibraryServices\obj\Debug\netcoreapp2.0\LibraryServices.csprojResolveAssemblyReference.cache
+C:\Users\cosop\source\repos\LibraryDev\LibraryServices\obj\Debug\netcoreapp2.0\LibraryServices.csproj.CoreCompileInputs.cache
+C:\Users\cosop\source\repos\LibraryDev\LibraryServices\obj\Debug\netcoreapp2.0\LibraryServices.AssemblyInfoInputs.cache
+C:\Users\cosop\source\repos\LibraryDev\LibraryServices\obj\Debug\netcoreapp2.0\LibraryServices.AssemblyInfo.cs
+C:\Users\cosop\source\repos\LibraryDev\LibraryServices\obj\Debug\netcoreapp2.0\LibraryServices.dll
+C:\Users\cosop\source\repos\LibraryDev\LibraryServices\obj\Debug\netcoreapp2.0\LibraryServices.pdb
+C:\Users\cosop\source\repos\LibraryDev\LibraryServices\obj\Debug\netcoreapp2.0\LibraryServices.csproj.CopyComplete
